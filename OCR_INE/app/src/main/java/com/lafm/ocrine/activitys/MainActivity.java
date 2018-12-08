@@ -1,7 +1,9 @@
-package com.lafm.ocrine;
+package com.lafm.ocrine.activitys;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.lafm.ocrine.R;
 
 public class MainActivity extends AppCompatActivity {
 

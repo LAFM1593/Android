@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">OCR_INE</string>
+    <string name="app_name">OCR INE</string>
+    <string name="app_description"> Reconocimiento Óptico\nde Caracteres.</string>
+
 </resources>
